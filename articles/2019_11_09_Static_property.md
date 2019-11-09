@@ -1,4 +1,4 @@
-**Have you seen a static property in a class?**
+Have you seen a static property in a class?
 
 **What is static? When should we use static property?**
 
