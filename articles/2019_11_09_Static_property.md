@@ -4,11 +4,12 @@ Have you seen a static property in a class?
 
 If you are searching the answers of these questions than this article is for you. 
  
-Firstly, I am sure that you have heard this introductory line of object oriented programming(OOP) that "a class is a
+I am sure that you have heard the line while learning object oriented programming(OOP) that "a class is a
 blueprint or design of objects", right? So,if we have a class of a Car, we can programmatically make an instance of
-Car. Just like, if we have an architectural design(blueprint) of house we can build one or multiple houses using that
-blueprint. In OOP the architectural design is class and the house is object. Now, what is property? A property is
-something that define the state of the created object. For instance, let's see the code below:
+Car. Same as, if we have an architectural design(blueprint) of house we can build one or multiple houses using that
+blueprint. In OOP the architectural design is class and the house(s) we have build is object. Then, what is property? A
+property is something that define the state of the created object. 
+For better understanding, let's see the code below:
 
 ```php
 class Car{
@@ -26,9 +27,9 @@ echo $car1->color; // Blue
 echo $car2->color; // Black
 ```
 
-This is obvious, right? But why? `color` is property of one single class but still `color` of `$car1` and `$car2` is
-`Blue` and `Black` respectively. It is because, the property is not state of the Class, it's state of Object. Let's
-verify this little bit further:
+This is obvious, right? But why? `color` seems a property of one single class but still `color` of `$car1` and `$car2
+` is `Blue` and `Black` respectively. No! `color` is not a property of `Car` class but property of created `objects`. 
+It is because, this property is not state of the Class, it's state of Object. Let's verify this little bit further:
 
 ```php
 $car1->color = 'Red';
@@ -39,11 +40,11 @@ echo $car2->color; // Black
 
 Here, we have changed the color of `$car1` from `Black` to `Red` but this operation has not effect on the `color` of
 another car object `$car2`. Now, we are quite sure that the property `color` is associated with Object not with the
-Class. In other word, the `color` not the state of architectural design of Car but it is state of an specific `car`
+Class. In other words, the `color` not the state of architectural design of Car but it is state of an specific
 instance. 
 
-Now, let's say we are in a situation that we need to count the number of created car(eg. `$totalCarCreated`) using the
-`Car` class. Is it a property of a specific car object? Let's thing about it. 
+Now, let's say we are in a situation where we need to count the number of created car(eg. `$totalCarCreated`) using the
+`Car` class. Is it a property of a specific car object? Let's think about it... 
 
 ```php
 class Car{
@@ -62,6 +63,7 @@ $car2 = new Car('Black');
 echo $car1->totalCarCreated; // 1
 echo $car2->totalCarCreated; // 1
 ```
+
 We have created 2 car using our class but `$car1` and `$car2` is returning 1! 
 Is it logical to have the `$totalCarCreated` property in a specific `car`. Is it logical to write `$car1->totalCarCreated`? 
 I mean should we ask `$car1`, how many car have been created? Should our `Black` car know how many car have been
