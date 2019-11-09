@@ -27,7 +27,7 @@ echo $car2->color; // Black
 ```
 
 This is obvious, right? But why? `color` is property of one single class but still `color` of `$car1` and `$car2` is
-`Blue` and `Black` respectively. It is because, the **property is not state of the Class, it's state of Object. Let's
+`Blue` and `Black` respectively. It is because, the property is not state of the Class, it's state of Object. Let's
 verify this little bit further:
 
 ```php
