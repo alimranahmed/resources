@@ -69,9 +69,9 @@ Is it logical to have the `$totalCarCreated` property in a specific `car`. Is it
 I mean should we ask `$car1`, how many car have been created? Should our `Black` car know how many car have been
 created using this same design? NO! Here, we are trying to associate a property with an object which is not a state
 of that object but an state of the Class itself. Here comes our `static` property. When a property is not associated
-with a class but with the class then we define it as static property or class property. 
+with an object but with the class, we define that property as static property or class property. 
 
-Let's modify our previous code see this in code:
+Let's modify our previous code as below to implement what we have just learned:
 ```php
 class Car{
     public $color;
