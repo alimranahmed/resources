@@ -92,8 +92,8 @@ Have you noticed?
 2. In the constructor we have used `self`(or `static`) keyword to access the static property.
 3. `totalCarCreated` is not property of `$car1` or `$car2` so we accessed it as `Car::totalCarCreated`
 
-I hope this article explain clearly what is `static` property and when we should use `static` property. My initial
-plan was to explain both static property and method in this very same article. But I think it being too long. So, in
-my next article I will try to explain what is static method and when we should use static method. Till then, Happy
-Programming!
+I hope this article explains clearly what is `static` property and when we should use `static` property. My initial
+plan was to explain both static property and method in this very same article. But I think it is already a long one. 
+So, in my next article I will try to explain what is static method and when we should use static method. Till then, 
+Happy Programming!
 
