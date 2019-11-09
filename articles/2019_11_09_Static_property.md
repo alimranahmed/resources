@@ -1,6 +1,6 @@
 Have you seen a static property in a class?
 
-**What is static? When should we use static property?**
+**What is static property? When should we use static property?**
 
 If you are searching the answers of these questions than this article is for you. 
  
