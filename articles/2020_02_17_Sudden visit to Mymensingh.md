@@ -1,6 +1,6 @@
-# Sudden visit to Mymensingh, A city that contains the Air of Village
+# Sudden Visit to Mymensingh, A City that Contains the Air of Village
 
-The winter season has just ended. It's the very beginning of season Spring though there still has the feel of
+The winter season has just ended. It was the very beginning of Spring though there were still the feel of
 winter outside Dhaka. I was planning to visit Mymensingh for a long time but unfortunately, it was just in the plan.
 Finally, I took the action to visit. Luckily, I have a brother who has just finished his Masters in Bangladesh
 Agricultural University(BAU), Mymensingh.
@@ -20,7 +20,7 @@ beside me. As soon as the train passes the busy atmosphere of Dhaka the weather 
 Dhaka was still sleeping, there was still fogs out there to cover the asleep trees and grass from our sight. I was
 having a feeling of going near nature to breathe natural air...
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/1_fog_from_train-min.JPG" alt="Fog from train">
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/1_fog_from_train-min.JPG" alt="Fog from train" width="100%">
 
 The train reached Mymensingh station at around 11:00 AM being almost 40 minutes late. I think this delay was due to
 fogs on the road. By the way, my brother was standing in the station to receive me. This was the starting of mission
@@ -32,7 +32,7 @@ that I don't have enough time to visit even just interesting things about the un
 traditional vehicle of Bangladesh, rickshaw. We visited places like Fish Museum Biodiversity Center(FMBC), the road
 that contains lines of mango trees in two sides then blackberry trees then litchi trees!
  
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/4_BAU_mango_trees-min.JPG" alt="Bangladesh Agricultural University">
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/4_BAU_mango_trees-min.JPG" alt="Bangladesh Agricultural University" width="100%">
 
 The road is amazing. We visited different faculties of the university. My brother showed me how all the faculties are
  smartly interconnected
@@ -41,7 +41,7 @@ There is a platform inside the university which is not active currently, we spen
 there. We drank grape juice in a popular place among the students called Jabbar's point. After all, the university is
 so nice and big that it made me feel like a little student who can learn a lot of things from there.
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/2_BAU_pond-min.JPG" alt="Bangladesh Agricultural University">    
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/2_BAU_pond-min.JPG" alt="Bangladesh Agricultural University" width="100%">    
     
 ## Botanical Garden
 The Botanical garden is maintained by the university as it is a part of BAU. Being a computer engineer I was not
@@ -49,7 +49,7 @@ much fascinated about different types of trees in the botanical garden. The enth
 made me think again! He is a student of Agroforestry, as a result, he knows a lot of things about trees. Some of the
 information was amazing. I was just fortunate to have him beside me!
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/5_Botanical_garden-min.JPG" alt="Botanical Garden"> 
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/5_Botanical_garden-min.JPG" alt="Botanical Garden" width="100%"> 
 
 ## Shoshi Lodge
 From the university we left for Shoshi Lodge, also know as Mymensingh Rajbari. The founder of this original Rajbari
@@ -57,9 +57,9 @@ was Surjo Kanto Acharjo Chowdhury and named it the name of his adopted son Shosh
 original building was destroyed in 1897 by Earthquake. Then it was reconstructed by his Son Shoshi Kanto Acharjo
 Chowdhury. Currently, there is a museum inside the Building. Beside the pond on the backside of the building is
 nice including the old walls of the boundaries. 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/9_Shoshi_lodgh-min.JPG" alt="Shoshi Lodge">
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/9_Shoshi_lodgh-min.JPG" alt="Shoshi Lodge" width="100%">
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/10.1_shoshi_loudgh-min.JPG" alt="Al Imran Ahmed">
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/10.1_shoshi_loudgh-min.JPG" alt="Al Imran Ahmed" width="100%">
 
 ## Zinul Abedin Park & Brahmaputra River
 After visiting Shoshi Lodge we started walking towards Alexander Castle. Alexander Castle is one of the most amazing and renowned structures in Mymensingh District. It was built by Maharaja Surjo Kanto Acharajo Chowdhury in 1879 in the memory of the 1st Zilla magistrate of Mymensingh Mr. N .S Alexander at the time of Jubilee festival. This structure is
@@ -69,7 +69,7 @@ just ended, there was not much water in the river. The Brahmaputra is a trans-bo
 India and Bangladesh. We had the
 chance to have a journey by boat in the famous Brahmaputra River. Though the journey by boat is not a new thing for me, I enjoyed it a lot.
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/13_Bromoputro_nod-min.JPG" alt="Brahmaputra river"> 
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/13_Bromoputro_nod-min.JPG" alt="Brahmaputra river" width="100%"> 
  
 ## Zinul Abedin Art Gallery(Zainul Abedin Sangrahashala)
 Zainul Abedin was a Bangladeshi painter. He became well known in 1944 through his series of paintings depicting some of
@@ -89,23 +89,23 @@ jomidar bari(Shoshi Lodge) in Mymensingh. We both were happy to visit the palace
 for world-famous Monda(a type of sweets) of Muktagacha. It was quite fascinating to taste Monda of Muktagacha for the
 first time. The taste was amazing, I won't forget this taste any time soon. After having monda, I took my way
 back to busy Dhaka.
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/14_Muktagach_jomidar_bari-min.JPG" alt="Muktagacha Jomidar bari">
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/14_Muktagach_jomidar_bari-min.JPG" alt="Muktagacha Jomidar bari" width="100%">
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/19_Riyaj.JPG" alt="Muktagacha Jomidar bari">
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/19_Riyaj.JPG" alt="Muktagacha Jomidar bari" width="100%">
 
 ## Foods
 Thought trying the food is not the intention of visiting a place, I always try to taste the special foods of the
 visiting places. We had our launch in Spice Klub on the first day, then we had a special kind of sweets(Sondesh) made
 of Date Palm Jaggery as our desert in Doyamon Mistanno Vandar. The taste of these Sondesh was exceptional.
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/15_Muktagacha_jomidar_bari-min.JPG" alt="Khejur gurer sondesh"> 
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/15_Muktagacha_jomidar_bari-min.JPG" alt="Khejur gurer sondesh" width="100%"> 
 <br><br>
 We had Jhalmuri made with achar in front of Ananda Muhon College which is also special. At night, we had our dinner in
 Nababiyana which was not much remarkable though the food was good enough. Finally, the most remarkable item was Monda of
 Muktagacha! I believe the taste of food varies from person to person, so don't expect that the food I have mentioned
 will also bring the same experience for you.  
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/16_Muktagachar_monda-min.JPG" alt="Monda of Muktagacha"> 
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/16_Muktagachar_monda-min.JPG" alt="Monda of Muktagacha" width="100%"> 
 
 ## Overall Experience
 The experience of visiting a new place depends on so many things! I didn't have much expectation about Mymensingh as
@@ -115,17 +115,14 @@ Agricultural University, Botanical Garden, Brahmaputra River, Zinul Abedin Art G
 really tasty and famous food item can be a relief from the busy life. I am happy that I have visited Mymensingh, one
 of the most traditional cities in Bangladesh. 
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/20_Imran_and_Riyaj.JPG" alt="Mission Mymensingh">
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/20_Imran_and_Riyaj.JPG" alt="Mission Mymensingh" width="100%">
 
 
 #### References
-1. https://en.wikipedia.org/wiki/Mymensingh
-2. https://adarbepari.com/mymensingh-shoshi-lodge
-3. http://offroadbangladesh.com/places/alexander-castle
-4. https://en.wikipedia.org/wiki/Brahmaputra_River
-5. https://en.wikipedia.org/wiki/Zainul_Abedin
-6. https://en.wikipedia.org/wiki/Ananda_Mohan_College
-7. https://bonghaat.com/khejur-gur.html
-
-
-
+1. [https://en.wikipedia.org/wiki/Mymensingh](https://en.wikipedia.org/wiki/Mymensingh)
+2. [https://adarbepari.com/mymensingh-shoshi-lodge](https://adarbepari.com/mymensingh-shoshi-lodge)
+3. [http://offroadbangladesh.com/places/alexander-castle](http://offroadbangladesh.com/places/alexander-castle)
+4. [https://en.wikipedia.org/wiki/Brahmaputra_River](https://en.wikipedia.org/wiki/Brahmaputra_River)
+5. [https://en.wikipedia.org/wiki/Zainul_Abedin](https://en.wikipedia.org/wiki/Zainul_Abedin)
+6. [https://en.wikipedia.org/wiki/Ananda_Mohan_College](https://en.wikipedia.org/wiki/Ananda_Mohan_College)
+7. [https://bonghaat.com/khejur-gur.html](https://bonghaat.com/khejur-gur.html)
