@@ -1,11 +1,11 @@
 # Sudden Visit to Mymensingh, A City that Contains the Air of Village
 
-The winter season has just ended. It was the very beginning of Spring though there were still the feel of
-winter outside Dhaka. I was planning to visit Mymensingh for a long time but unfortunately, it was just in the plan.
+The Winter season had just ended. It was the very beginning of Spring though there were still the feel of
+Winter outside Dhaka. I was planning to visit Mymensingh for a long time but unfortunately, it was just in the plan.
 Finally, I took the action to visit. Luckily, I have a brother who has just finished his Masters in Bangladesh
 Agricultural University(BAU), Mymensingh.
 
-Though Mymensingh is the capital of the Mymensingh Division of Bangladesh, it is not a much-visited city as far as I 
+Although Mymensingh is the capital of the Mymensingh Division of Bangladesh, it is not a much-visited city as far as I 
 know. So, I visited the city without any expectation as It was just a plan to visit all the remarkable cities of my
 own country, not to see any particular thing. I visited there just see the city, the livelihood of people and some
 unknown but remarkable places. The city is located on the Brahmaputra River, not very far from Dhaka, the capital of
@@ -15,8 +15,8 @@ Bangladesh.
 I bought a ticket for train Tista that left the Airport Railway station at 8:00 AM. It was quite
 an early morning for me as I am not an early bird. To my surprise, when I got out of the home to reach the station
 I found Dhaka already well awaken. Dhaka is another city that doesn't sleep. The train was on time, it was
-leaving Dhaka behind and instead of using any smart device I kept my eye opened looking outside through the window just
-beside me. As soon as the train passes the busy atmosphere of Dhaka the weather got changed! Seems like outside of
+leaving Dhaka behind and instead of using any smart device I kept my eye opened looking outside through the window 
+beside me. As soon as the train passes the busy atmosphere of Dhaka, the weather got changed! Seems like outside of
 Dhaka was still sleeping, there was still fogs out there to cover the asleep trees and grass from our sight. I was
 having a feeling of going near nature to breathe natural air...
 
@@ -75,7 +75,7 @@ chance to have a journey by boat in the famous Brahmaputra River. Though the jou
 Zainul Abedin was a Bangladeshi painter. He became well known in 1944 through his series of paintings depicting some of
 the great famines in Bengal during its British colonial period. After the Partition of the Indian subcontinent, he moved to
 East Pakistan (now Bangladesh). In 1948, he helped to establish the Institute of Arts and Crafts (now Faculty of Fine
-Arts) at the University of Dhaka. He is a pride for us(Bangladeshi People). His art gallery is just beside the Zinul Abedin.
+Arts) at the University of Dhaka. He is a pride for us(Bangladeshi People). His art gallery is just beside the Zinul Abedin Park.
 It was evening by then when we entered into the art gallery. Though I don't have much knowledge about paintings, still I can understand the paintings painted by him were the reflection of his time in this part of the world. Those
 paintings were a telescope for us to see the tragic past. After visiting the art gallery it was dark out there. We
 went to Ananda Mohon College, one of the oldest educational institutes in Bangladesh.
@@ -89,16 +89,17 @@ jomidar bari(Shoshi Lodge) in Mymensingh. We both were happy to visit the palace
 for world-famous Monda(a type of sweets) of Muktagacha. It was quite fascinating to taste Monda of Muktagacha for the
 first time. The taste was amazing, I won't forget this taste any time soon. After having monda, I took my way
 back to busy Dhaka.
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/14_Muktagach_jomidar_bari-min.JPG" alt="Muktagacha Jomidar bari" width="100%">
+
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/15_Muktagacha_jomidar_bari-min.JPG" alt="Khejur gurer sondesh" width="100%"> 
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/19_Riyaj.JPG" alt="Muktagacha Jomidar bari" width="100%">
 
 ## Foods
-Thought trying the food is not the intention of visiting a place, I always try to taste the special foods of the
+Though trying the food is not the intention of visiting a place, I always try to taste the special foods of the
 visiting places. We had our launch in Spice Klub on the first day, then we had a special kind of sweets(Sondesh) made
 of Date Palm Jaggery as our desert in Doyamon Mistanno Vandar. The taste of these Sondesh was exceptional.
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/15_Muktagacha_jomidar_bari-min.JPG" alt="Khejur gurer sondesh" width="100%"> 
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/8_Khejur_gurer_sondesh-min.JPG" alt="Khejur gurer sondesh" width="100%"> 
 <br><br>
 We had Jhalmuri made with achar in front of Ananda Muhon College which is also special. At night, we had our dinner in
 Nababiyana which was not much remarkable though the food was good enough. Finally, the most remarkable item was Monda of
@@ -109,7 +110,7 @@ will also bring the same experience for you.
 
 ## Overall Experience
 The experience of visiting a new place depends on so many things! I didn't have much expectation about Mymensingh as
-the city is not int the top list of travelers. The truth is, there is not much attraction for travelers. But if
+the city is not in the top list of travelers. The truth is, there is not much attraction for travelers. But if
 you are tired of overcrowded cities like Dhaka, then Mymensingh can be a good choice to get some fresh air. Visiting the
 Agricultural University, Botanical Garden, Brahmaputra River, Zinul Abedin Art Gallery, Muktagacha and eating some
 really tasty and famous food item can be a relief from the busy life. I am happy that I have visited Mymensingh, one
@@ -126,3 +127,4 @@ of the most traditional cities in Bangladesh.
 5. [https://en.wikipedia.org/wiki/Zainul_Abedin](https://en.wikipedia.org/wiki/Zainul_Abedin)
 6. [https://en.wikipedia.org/wiki/Ananda_Mohan_College](https://en.wikipedia.org/wiki/Ananda_Mohan_College)
 7. [https://bonghaat.com/khejur-gur.html](https://bonghaat.com/khejur-gur.html)
+
