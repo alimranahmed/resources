@@ -10,8 +10,9 @@ I thought he was joking, so I replied with positive "yes, let's go!".
 Then I realise that he was not joking actually, he was serious to visit Kuakata that day. 
 So we decided to visit Kuakata on that Friday. That was the starting of the tour!
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/1_0_beach
-.JPG" alt="Kuakata Sea beach" width="100%">
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/1_0_beach.JPG" 
+alt="Kuakata Sea beach" width="100%">
 
 ## Kuakata
 Kuakata is a beach town known for its panoramic sea beach. It is in southeastern part of Bangladesh and is the
