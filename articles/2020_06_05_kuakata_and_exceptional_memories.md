@@ -1,4 +1,4 @@
-It was for Friday afternoon, before COVID-19's first case in Bangladesh. 
+It was Friday afternoon, before COVID-19's first case in Bangladesh. 
 Last day of the week, we were wrapping up our works for the week. Suddenly, 
 one of my colleagues asked me "do you know [Gorur Gari(a lightweight cart pulled by male cows)](https://commons.wikimedia.org/wiki/File:%E0%A6%97%E0%A6%B0%E0%A7%81%E0%A6%B0_%E0%A6%97%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF_(Gorur_Gari).jpg) 
 is the traditional vehicle of which part of our country?" I replied with frustration 
