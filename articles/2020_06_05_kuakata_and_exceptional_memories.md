@@ -10,6 +10,9 @@ I thought he was joking, so I replied with positive "yes, let's go!".
 Then I realise that he was not joking actually, he was serious to visit Kuakata that day. 
 So we decided to visit Kuakata on that Friday. That was the starting of the tour!
 
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/1_0_beach
+.JPG" alt="Kuakata Sea beach" width="100%">
+
 ## Kuakata
 Kuakata is a beach town known for its panoramic sea beach. It is in southeastern part of Bangladesh and is the
 remarkable tourist spot in the country. Kuakata beach is a sandy expanse 18 kilometres long and 3 kilometres wide.
@@ -47,6 +50,17 @@ They will try to click too much photo even if you say them not to. While you cho
 have to discard the photo you don't want in the first go. They won't give you the second chance to discard more photo. 
 So, if you plan that you will choose photos in multiple revision, you might end up paying more than you planned to
 pay. We had our ride on the sea and few good photos then we went back to hotel and had shower.
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/1_1_sea_bike.JPG" 
+alt="Sea bike" width="100%">
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/1_2_bike_ride.JPG" 
+alt="Sea bike" width="100%">
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/1_3_play_with_wave.JPG" 
+alt="Kuakata sea beach" width="100%">
  
 Then after taking rest we get out from Hotel to see the **sunset**! We hired a bike that can carry us till the end of
 west(Lebur bon) side of the beach. We hired the bike saying that we will stop in several places during the visit. 
@@ -60,6 +74,22 @@ We asked for Crabs and Rupchada fish. While eating, we were seeing the sun going
 experience by the way. After sunset, we went back to hotel again to come back after recharging our devices and
 ourselves.
 
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/4_oyster_touch.JPG" 
+alt="Oyster in Kuakata" width="100%">
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/2_1_rupchada_fry.JPG" 
+alt="Rupchada Fry" width="100%">
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/2_crab_fry.JPG" 
+alt="Crab fry" width="100%">
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/3_sunset.JPG" 
+alt="Sunset in Kuakata" width="100%">
+
 ## Night in the Beach
 It's different. We went out to the sea beach at night. It's crowded! Live fish fry market, you choose your fish and
 tell them to prepare the fish BBQ or Fry. Firstly, we bought a Tuna fish and told them to make BBQ for us. The price
@@ -69,6 +99,9 @@ Salmon fish and told them to fry it. The taste of the fishes was excellent and f
 Salmon fish more. As expected, we were unable to finish two fishes, almost half of the fishes was wasted(Felt guilty
 ). We both are know as a better eater in our office! After having those fantastic fish meal we rested for about an
 hour in the beach. Aah, that was a good time.
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/5_fish_bbq.JPG" 
+alt="Fish BBQ in Kuakata" width="100%">
 
 ## Second day
 None of us is early riser. So, it was expected that we will miss the sunrise, and we missed it. We woke up at at
@@ -76,6 +109,10 @@ around 8 o'clock. We hire another bike today to visit the east side the beach. T
 Our this bike rider was a better photographer. It was morning, and the air was fresh. We enjoyed it a lot. Luckly
 we met guest bird in during the see, it was quite a view. We missed capturing it! We visited few nice
 places that are not much relevant to beach visiting, so I am not pointing them out.
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/6_view.JPG" 
+alt="Kuakata sea beach" width="100%">
 
 ## Journey back by [Launch](https://www.youtube.com/watch?v=bV6MgUjedoI)
 Ahh, after all those sweet experiences we need to get back to our usual life, capital city Dhaka. Wait, we still have
@@ -88,6 +125,18 @@ exceptional. I never knew about such a thing, such multi-stored big vehicle thro
 biggest one but it's still big enough. We booked a double cabin that included a TV, two beds! That was an
 exceptionally great experience. Thanks to the launch of Barisal and my colleague and elder brother Mizbah Ul Ahsan
 Baharam(Baharam bhai). We reach Dhaka early morning next day. 
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/7_launch.JPG" 
+alt="Launch of Barisal" width="100%">
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/9_1_single_imran.JPG" 
+alt="Al Imran Ahmed" width="100%">
+
+<img 
+src="https://raw.githubusercontent.com/alimranahmed/resources/master/kukata_and_exceptional_memories/9_single_shahadata.JPG" 
+alt="Md. Shahadat Hossain" width="100%">
 
 That was the end of our quick and perfect tour.
 
