@@ -22,7 +22,7 @@ famous specially for seeing the sunrise and sunset. Additionally, eating fresh s
 also an attracting of all sea beaches of Bangladesh.
 
 ## Dhaka to Kuakata
-We bought our bus ticket through online for the bus Shurovi that go directly from Gabtoli, Dhaka to Kuakata. As far
+We bought our bus ticket through online for the bus Sakura that go directly from Gabtoli, Dhaka to Kuakata. As far
 as I remember, the departure time was 11:00 PM. So, me and my tallest colleague(Md. Shahadat Hossain) reached the
 bus counter before 11:00 PM. Surprisingly, the bus left Gabtoli bus stop in accurate time! During the journey the bus
 will pass through few ferries(A special kind of boat that carry buses from one side of river to another side). This
