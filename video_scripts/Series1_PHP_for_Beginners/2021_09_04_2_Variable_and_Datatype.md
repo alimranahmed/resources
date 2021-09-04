@@ -10,14 +10,16 @@
 - ডেটা টাইপ কি?
 - gettype() এবং var_dump() এর সাথে পরিচয়।
 - পিএইপি তে কি কি ডেটা টাইপ আছে? আলোচনাঃ
-  String
-  Integer
-  Float/Double (floating point numbers - also called double)
+```
+  Integer(দশমিক থাকবে না, পজেটিভ কিংবা নেগেটিভ হতে পারে)
+  Float/Double (floating point numbers)
   Boolean
+  String
   Array
   Object
   NULL
   Resource
+```
 
 ## Call to Action
 এই ছিল আজকের মত আমাদের ভ্যারিয়েবল ও ড্যাটা টাইপ নিয়ে আলোচনা। ভ্যারিয়েবল কিংবা ড্যাটা টাইপ বিষয়ে আপনাদের কোন প্রশ্ন থাকলে নিচের কমেন্ট বক্স লিখতে ভুলবেন না।
