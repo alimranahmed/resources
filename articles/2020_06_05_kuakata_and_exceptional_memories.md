@@ -11,6 +11,7 @@ Then I realise that he was not joking actually, he was serious to visit Kuakata 
 So we decided to visit Kuakata on that Friday. That was the starting of the tour!
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/kukata_and_exceptional_memories/1_0_beach.JPG" alt="Kuakata Sea beach" width="100%" loading="lazy">
+<br><br>
 
 ## Kuakata
 Kuakata is a beach town known for its panoramic sea beach. It is in southeastern part of Bangladesh and is the
@@ -18,6 +19,7 @@ remarkable tourist spot in the country. Kuakata beach is a sandy expanse 18 kilo
 From the beach one can have an unobstructed view of both sunrise and sunset over the Bay of Bengal. So this beach
 famous specially for seeing the sunrise and sunset. Additionally, eating fresh sea fishes with cheaper price is
 also an attracting of all sea beaches of Bangladesh.
+<br><br>
 
 ## Dhaka to Kuakata
 We bought our bus ticket through online for the bus Sakura that go directly from Gabtoli, Dhaka to Kuakata. As far
@@ -26,6 +28,7 @@ bus counter before 11:00 PM. Surprisingly, the bus left Gabtoli bus stop in accu
 will pass through few ferries(A special kind of boat that carry buses from one side of river to another side). This
 was also a new experience for me as I had not seen any such thing before. So, we reached Kuakata at nearly 10:00 AM
 next day.
+<br><br>
 
 ## Hotel Checking in
 We did not book any hotel through online or phone. So, we started looking for a good hotel to stay a night.
@@ -34,6 +37,7 @@ them but none of those were good enough. We were searching for a decent hotel ne
 There was a good-looking hotel may be ran by our government which was a bit expensive that time.
 Finally, we checked in into "Hotel International Inn" that seemed decent enough to us to stay near the beach. After
 checking in the hotel we prepared for visiting the beach!
+<br><br>
 
 ## First day
 Though we were in the beach we had our first breakfast with a Porota and Vaji. Then we move forward to the beach.
@@ -75,6 +79,7 @@ ourselves.
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/kukata_and_exceptional_memories/2_crab_fry.JPG" alt="Crab fry" width="100%" loading="lazy">
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/kukata_and_exceptional_memories/3_sunset.JPG" alt="Sunset in Kuakata" width="100%" loading="lazy">
+<br><br>
 
 ## Night in the Beach
 It's different. We went out to the sea beach at night. It's crowded! Live fish fry market, you choose your fish and
@@ -86,6 +91,7 @@ Salmon fish more. As expected, we were unable to finish two fishes, almost half 
 ). We both are know as a better eater in our office! After having those fantastic fish meal we rested for about an
 hour in the beach. Aah, that was a good time.
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/kukata_and_exceptional_memories/5_fish_bbq.JPG" alt="Fish BBQ in Kuakata" width="100%" loading="lazy">
+<br><br>
 
 ## Second day
 None of us is early riser. So, it was expected that we will miss the sunrise, and we missed it. We woke up at at
@@ -95,6 +101,7 @@ we met guest bird in during the see, it was quite a view. We missed capturing it
 places that are not much relevant to beach visiting, so I am not pointing them out.
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/kukata_and_exceptional_memories/6_view.JPG" alt="Kuakata sea beach" width="100%" loading="lazy">
+<br><br>
 
 ## Journey back by [Launch](https://www.youtube.com/watch?v=bV6MgUjedoI)
 Ahh, after all those sweet experiences we need to get back to our usual life, capital city Dhaka. Wait, we still have

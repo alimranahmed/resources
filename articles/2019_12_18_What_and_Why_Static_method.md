@@ -1,6 +1,7 @@
 In the last [article](http://imranic.me/article/10/what-is-static-property?-when-should-we-use-static-property?) we
 tried to explore what is static property. We have seen why and where we should use them. As promised in that
 article, we are going to discover about static method in this article. Let's begin!
+<br><br>
 
 ## Non-static Method:
 Let's consider the following example that demonstrate a simple `Math` class that can perform addition and subtraction
@@ -76,6 +77,7 @@ echo $math1->subtract(20, 15); // 5
 
 Isn't it better now? As our newly designed `Math` class we don't need to instantiate the class whenever we need to
 perform any operation.
+<br><br>
 
 ## Static Method
 But wait, we are still creating an object to perform any operation, right? Is it necessary?
@@ -113,6 +115,7 @@ Very simple, isn't it? As the method `add()` and `subtract()` has no dependency 
 why should we bother to create an object by instantiating the class? In PHP we need to use double colon(`::`) to call
 a static method where other programing languages have there own way of calling static method. However, the concept
 of static method is same.
+<br><br>
 
 ## Why can't we use `$this` keyword inside static method?
 So far, I think we are clear when and why we should use static method. Now, have you noticed while writing code
@@ -121,6 +124,7 @@ the time I was clear with the concept of `static`, it became obvious to me that 
 inside a static method. Because, same as static property static method is not a method of an object but method of the
 class where `$this` keyword represent the object. We call a static method without even creating any object, so using
 the reference of object(`$this`) inside a static method doesn't make any sense.
+<br><br>
 
 ## Finally
 Interesting thing is, we already know that we can call a static method even without creating an object. Doesn't it mean

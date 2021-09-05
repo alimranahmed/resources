@@ -8,6 +8,7 @@ know. So, I visited the city without any expectation as It was just a plan to vi
 own country, not to see any particular thing. I visited there just see the city, the livelihood of people and some
 unknown but remarkable places. The city is located on the Brahmaputra River, not very far from Dhaka, the capital of
 Bangladesh.
+<br><br>
 
 ## Train From Dhaka to Mymensingh
 I bought a ticket for train Tista that left the Airport Railway station at 8:00 AM. It was quite
@@ -23,6 +24,7 @@ having a feeling of going near nature to breathe natural air...
 The train reached Mymensingh station at around 11:00 AM being almost 40 minutes late. I think this delay was due to
 fogs on the road. By the way, my brother was standing in the station to receive me. This was the starting of mission
 Mymensingh!
+<br><br>
 
 ## Bangladesh Agricultural University(BAU)
 From the station, we went straight to BAU, one of the biggest agricultural universities in Asia. The university is so big
@@ -40,6 +42,7 @@ there. We drank grape juice in a popular place among the students called Jabbar'
 so nice and big that it made me feel like a little student who can learn a lot of things from there.
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/2_BAU_pond-min.JPG" alt="Bangladesh Agricultural University" width="100%" loading="lazy">    
+<br><br>
 
 ## Botanical Garden
 The Botanical garden is maintained by the university as it is a part of BAU. Being a computer engineer I was not
@@ -48,6 +51,7 @@ made me think again! He is a student of Agroforestry, as a result, he knows a lo
 information was amazing. I was just fortunate to have him beside me!
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/5_Botanical_garden-min.JPG" alt="Botanical Garden" width="100%" loading="lazy"> 
+<br><br>
 
 ## Shoshi Lodge
 From the university we left for Shoshi Lodge, also know as Mymensingh Rajbari. The founder of this original Rajbari
@@ -58,6 +62,7 @@ nice including the old walls of the boundaries.
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/9_Shoshi_lodgh-min.JPG" alt="Shoshi Lodge" width="100%" loading="lazy">
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/10.1_shoshi_loudgh-min.JPG" alt="Al Imran Ahmed" width="100%" loading="lazy">
+<br><br>
 
 ## Zinul Abedin Park & Brahmaputra River
 After visiting Shoshi Lodge we started walking towards Alexander Castle. Alexander Castle is one of the most amazing and renowned structures in Mymensingh District. It was built by Maharaja Surjo Kanto Acharajo Chowdhury in 1879 in the memory of the 1st Zilla magistrate of Mymensingh Mr. N .S Alexander at the time of Jubilee festival. This structure is
@@ -68,6 +73,7 @@ India and Bangladesh. We had the
 chance to have a journey by boat in the famous Brahmaputra River. Though the journey by boat is not a new thing for me, I enjoyed it a lot.
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/13_Bromoputro_nod-min.JPG" alt="Brahmaputra river" width="100%" loading="lazy"> 
+<br><br>
 
 ## Zinul Abedin Art Gallery(Zainul Abedin Sangrahashala)
 Zainul Abedin was a Bangladeshi painter. He became well known in 1944 through his series of paintings depicting some of
@@ -77,6 +83,7 @@ Arts) at the University of Dhaka. He is a pride for us(Bangladeshi People). His 
 It was evening by then when we entered into the art gallery. Though I don't have much knowledge about paintings, still I can understand the paintings painted by him were the reflection of his time in this part of the world. Those
 paintings were a telescope for us to see the tragic past. After visiting the art gallery it was dark out there. We
 went to Ananda Mohon College, one of the oldest educational institutes in Bangladesh.
+<br><br>
 
 ## Muktagacha Jomidar Bari & Monda
 We started our journey from Mymensingh early in the next morning. From the town hall of Mymensingh, we hired a CNG to go
@@ -91,6 +98,7 @@ back to busy Dhaka.
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/15_Muktagacha_jomidar_bari-min.JPG" alt="Khejur gurer sondesh" width="100%" loading="lazy"> 
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/19_Riyaj.JPG" alt="Muktagacha Jomidar bari" width="100%" loading="lazy">
+<br><br>
 
 ## Foods
 Though trying the food is not the intention of visiting a place, I always try to taste the special foods of the
@@ -105,6 +113,7 @@ Muktagacha! I believe the taste of food varies from person to person, so don't e
 will also bring the same experience for you.  
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/16_Muktagachar_monda-min.JPG" alt="Monda of Muktagacha" width="100%" loading="lazy"> 
+<br><br>
 
 ## Overall Experience
 The experience of visiting a new place depends on so many things! I didn't have much expectation about Mymensingh as
@@ -115,6 +124,7 @@ really tasty and famous food item can be a relief from the busy life. I am happy
 of the most traditional cities in Bangladesh.
 
 <img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/20_Imran_and_Riyaj.JPG" alt="Mission Mymensingh" width="100%" loading="lazy">
+<br><br>
 
 
 #### References

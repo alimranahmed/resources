@@ -1,7 +1,6 @@
 Have you seen a static property in a class?
-
-**What is static property? When should we use static property?**
-
+<br><br>
+**What is static property? When should we use static property?**<br>
 If you are searching the answers of these questions than this article is for you. I have used PHP to explain this
 concept. But, I believe anyone from any other programming language, will be able to understand.
 
@@ -90,7 +89,7 @@ $car2 = new Car('Black');
 echo Car::$totalCarCreated; // 2
 ```
 
-Have you noticed?
+**Have you noticed?**<br>
 1. The static property `$totalCarCreated` is defined using the keyword `static`.
 2. In the constructor we have used `self`(or `static`) keyword to access the static property.
 3. `$totalCarCreated` is not property of `$car1` or `$car2` so we accessed it as `Car::$totalCarCreated`
