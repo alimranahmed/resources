@@ -11,14 +11,16 @@
 - Double Quotation and single quotation,
 - Concat
 - Variable inside string
-- strlen()
-- str_word_count()
-- strrev()
-- strpos()
-- str_replace()
-- strtolower()
-- strtoupper()
-- ucwords()
+- strlen($str)
+- str_word_count($str)
+- strrev($str)
+- strpos($haystack, $needle)
+- str_replace($search, $replace, $subject)
+- strtolower($str)
+- strtoupper($str)
+- ucfirst($str)
+- ucwords($str)
+- substr($str, $offset, $length)
 
 
 ## Call to Action
