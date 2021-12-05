@@ -72,7 +72,7 @@ just ended, there was not much water in the river. The Brahmaputra is a trans-bo
 India and Bangladesh. We had the
 chance to have a journey by boat in the famous Brahmaputra River. Though the journey by boat is not a new thing for me, I enjoyed it a lot.
 
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/sudden_visit_to_Mymensingh/13_Bromoputro_nod-min.JPG" alt="Brahmaputra river" width="100%" loading="lazy"> 
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/sudden_visit_to_Mymensingh/13_Bromoputro_nod-min.JPG" alt="Brahmaputra river" width="100%" loading="lazy"> 
 <br><br>
 
 ## Zinul Abedin Art Gallery(Zainul Abedin Sangrahashala)
