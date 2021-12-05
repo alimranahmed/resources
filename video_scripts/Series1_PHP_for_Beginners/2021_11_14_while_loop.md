@@ -13,7 +13,7 @@
 $day = 1;
 
 while($day < 6){
-    echo("Day: {$day} <br");
+    echo("Day: {$day} <br>");
     echo("Wake up from bed <br>");
     echo("Go to office <br>");
     echo("Come back to home <br>");
