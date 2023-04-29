@@ -1,24 +1,24 @@
-### Introduction
-I have been developing web application using PHP(mostly Laravel) for years. As I played different
-roles in different companies, I know how to install my [PHP](https://www.php.net/)/[Laravel](https://laravel.com/) application in cloud servers
-like [AWS](https://aws.amazon.com/), [DigitalOcean](https://www.digitalocean.com/) etc. We also know these cloud servers are basically a computer/machine
-just like the one you are reading this article on. But, what if I want to serve my Laravel applications 
-in my own computer(Laptop, Desktop or any other machine) at home? I had this feeling for a long time that I should know this.
-The first requirement came to my mind was,
-I need a public IP so that my computer can be accessible publicly, but I use a shared internet. So, I cannot do that, right?
-No, I was completely wrong. It's absolutely possible to host my web app from shared internet too!
-I was planning to buy a [Raspberry Pi](https://www.raspberrypi.org/) for a long time, but I resisted myself buying
-because I was not sure about many things. For example: Raspberry Pi doesn't have a display, 
-how do I connect my monitor by USB-C? How do I connect my bluetooth keyboard? Mouse? What about WiFi? Does it have these drivers pre-installed?
-I knew these are definitely possible, but I was not  confident to resolve these basic things painlessly. Maybe an experiment for the future.
-Few days back, my office announced that they are selling out some old Laptops and Desktops! 
-My office was selling it nearly the same price as Raspberry Pi with a casing/cover!
-These Lenevo Thinkpads are more powerful and way more resourceful(keyboard, display, touchpad, wifi, bluetooth, ports and all) 
-than a Raspberry Pi. Even the minimal DigitalOcean or AWS machine cost 
-at least $5 per month. Running laptop 24/7 as a server is not free either, but it's not that expensive too 
-comparing the CPU, Memory I am getting and energy cost I am paying. 
-I thought it was the right time to buy a Laptop from my office and fulfil my desire to perform the experiment I wanted to do for a long time. 
-I finally bought old laptop, thanks to my office.
+# How I Turned an Old Laptop into a Web Hosting Server for My Laravel Application
+For years, I have been developing web applications using PHP, primarily Laravel. 
+As I have played different roles in various companies, I knew how to install my [PHP](https://www.php.net/)/[Laravel](https://laravel.com/) applications on cloud servers like
+[AWS](https://aws.amazon.com/), [DigitalOcean](https://www.digitalocean.com/), and others. We know that these cloud servers are essentially just computers/machines like the one you are 
+using to read this article. However, I have always wondered if it were possible to serve my Laravel applications from my own computer 
+at home (whether it's a laptop, desktop, or another machine). At first, I thought I needed a public IP so that my 
+computer could be accessed publicly, but I use a shared internet, so I assumed it was not possible. 
+As it turns out, I was completely wrong. It's entirely possible to host my web app from a shared internet too! 
+I had been considering buying a [Raspberry Pi](https://www.raspberrypi.org/) for some time, but I held off because I was uncertain about many things. 
+For example, the Raspberry Pi doesn't have a display, and I wasn't sure how to connect my monitor via USB-C or how to 
+connect my Bluetooth keyboard and mouse. Additionally, I wasn't sure if the Raspberry Pi had these drivers pre-installed or 
+if I would have to install them manually. Although I knew it was possible to resolve these basic issues, I lacked confidence 
+in doing so without experiencing pain. Perhaps this can be an experiment for the future.
+
+Just a few days ago, my office made an announcement that they were selling some of their old laptops and desktops. 
+To my surprise, the Lenovo Thinkpads they were selling were almost the same price as a Raspberry Pi with a casing/cover, 
+but much more powerful and resourceful in terms of their keyboard, display, touchpad, wifi, bluetooth, and ports. 
+Even the most basic DigitalOcean or AWS machine costs at least $5 per month. 
+Running a laptop 24/7 as a server does come at a cost, but considering the CPU and memory I am getting, as well as the energy cost, 
+it's not that expensive. I decided that it was the perfect time to purchase one of these laptops from my office and finally perform 
+the experiment I had been wanting to do for a long time. Thanks to my office, I was able to buy an old laptop and fulfill my desire.
 
 ![Hosting Laravel in Laptop](https://raw.githubusercontent.com/alimranahmed/resources/master/files/host_laravel_application_in_laptop/banner.png)
 
@@ -294,7 +294,8 @@ That's it, now the tunnel will be running in the background even if we close the
 1. Can't access server with SSH from different computer of different network. Will write an article on that later.
 
 ### Conclusion
-Though it took a lot of time to understand and connect all those dots regarding Cloudflare, I am happy to finally
-host my Web Application using an old laptop as a server. I hear no fan noise as I am not hosting any
-traffic heavy application but only some hobby projects for demonstration purpose. I think it was a good idea
-to have this experience. An experiment worth performing. Thanks for reading.  
+It took a considerable amount of time to comprehend and connect all the dots regarding Cloudflare, 
+but I am pleased to say that I have successfully hosted my web application using an old laptop as a server. 
+Since I am not hosting any heavy traffic applications but rather some hobby projects for demonstration purposes, 
+I do not hear any fan noise. I believe that it was a worthwhile experience to have this opportunity and perform this experiment. 
+Thank you for taking the time to read this.
