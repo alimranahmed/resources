@@ -179,7 +179,7 @@ Then it told me to log in to my [GoDaddy](https://www.godaddy.com/) change the `
 jamie.ns.cloudflare.com
 sterling.ns.cloudflare.com
 ```
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/host_laravel_application_in_laptop/1_cloudflare_nameserver_change_suggestion.png.JPG" alt="Nameserver change suggestion in Cloudflare" width="100%" loading="lazy">
+<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/host_laravel_application_in_laptop/1_cloudflare_nameserver_change_suggestion.png" alt="Nameserver change suggestion in Cloudflare" width="100%" loading="lazy">
 
 By doing so, we are basically giving Cloudflare the full control to manage your domain's DNS record. I did so, and it takes a while. After changing the 
 nameservers you can come back to Cloudflare and pressed **Done, Check nameservers** button. After a while, once Cloudflared nameservers are activated,
