@@ -21,6 +21,8 @@ comparing the CPU, Memory I am getting and energy cost I am paying.
 I thought it was the right time to buy a Laptop from my office and fulfil my desire to perform the experiment I wanted to do for a long time. 
 I finally bought old laptop, thanks to my office.
 
+![Hosting Laravel in Laptop](https://raw.githubusercontent.com/alimranahmed/resources/master/files/host_laravel_application_in_laptop/banner.png)
+
 ### What you need?
 - **A laptop/machine to serve your application**: I bought an old Lenevo Thinkpad T-460s(Intel Core i5, 12 GB RAM, 256 SSD).  
 - **A domain you own**: I own domain from [GoDaddy](https://www.godaddy.com/) 
@@ -168,6 +170,7 @@ to set up the tunnel. There are always things we want but are not provided in th
 After spending many stressful hours, we need to put them together to achieve what we want. Here is what I did: 
 
 **1. Connecting your domain with Cloudflare**
+
 After logging in into my Cloudflare account, from my [dashboard](https://dash.cloudflare.com/) I went to the menu named `Websites`. After clicking on this menu,
 there is a button called `Add a Site`. I clicked on `Add a Site` and entered my domain name that I own, for example: `example-app.com` the saved. 
 After saving It asked me to select a plan, I selected free plane and pressed `Continue`.<br> 
@@ -179,7 +182,7 @@ Then it told me to log in to my [GoDaddy](https://www.godaddy.com/) change the `
 jamie.ns.cloudflare.com
 sterling.ns.cloudflare.com
 ```
-<img src="https://raw.githubusercontent.com/alimranahmed/resources/master/files/host_laravel_application_in_laptop/1_cloudflare_nameserver_change_suggestion.png" alt="Nameserver change suggestion in Cloudflare" width="100%" loading="lazy">
+![Nameserver change suggestion in Cloudflare](https://raw.githubusercontent.com/alimranahmed/resources/master/files/host_laravel_application_in_laptop/1_cloudflare_nameserver_change_suggestion.png)
 
 By doing so, we are basically giving Cloudflare the full control to manage your domain's DNS record. I did so, and it takes a while. After changing the 
 nameservers you can come back to Cloudflare and pressed **Done, Check nameservers** button. After a while, once Cloudflared nameservers are activated,
@@ -187,6 +190,7 @@ I expected my web application that was hosted on a different server will not be 
 So, in the meantime, I proceed to the following steps. 
 
 **2. Install Cloudflare in laptop**
+
 As I installed Lubuntu(Linux) in my laptop, I downloaded the `cloudflared` using command provided for`.deb` from here: [download and installation command](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide/local/#1-download-and-install-cloudflared)
 In case the command doesn't work, make sure you use SUDO while doing it. Or do `sudo su` and follow the process as a `root` user.
 
@@ -197,6 +201,7 @@ cloudflared -v
 you should see the version of the `cloudflared` client.
 
 **3. Authorizing Cloudflare tunnel with your connected domain**
+
 Then I authenticated Cloudflare tunnel to the domain I added in previous step, so that it can manage DNS record from my laptop. I used the following 
 command:
 
@@ -211,6 +216,7 @@ Once selected the domain in web browser, in the terminal it created a `cert.pem`
 I believe, cloudflare will use this certificate `cert.pem` to later access cloudflare services from CLI `cloudflared` in my laptop.
 
 **4. Create Cloudflare tunnel**
+
 Now, we can create tunnel from our CLI. Point to be noted here is, you can also create tunnel from Cloudflare interface too. But CLI seemed more
 convenient to me. Used the following command to create a tunnel:
 
@@ -227,6 +233,7 @@ Also, in Cloudflare web interface, we can go to **Zero Trust > Access > Tunnels*
 
 
 **5. Configure Tunnel to Serve My Laravel application**
+
 Then I created a file called `config.yml` inside `/root/.cloudflared` directory. In that file we have content as below:
 ```yaml
 tunnel: <Tunnel-UUID>
@@ -244,6 +251,7 @@ In place of `<Tunnel-UUID>`, I have the tunnel UUID of the tunnel I created in t
 we can also use subdomain name here too. 
 
 **6. Routing the traffic**
+
 Ok, now we need to tell our new nameserver in Cloudflare that if some hit this domain name, we should send him to my local computer using the tunnel 
 we created. 
 
@@ -256,6 +264,7 @@ Doing this, we are routing our Laravel application using Cloudflare tunnel and D
 the command I run.
 
 **7. Run your tunnel**
+
 Now the moment of truth, time to run the tunnel and see my Laravel application is being server from my own Laptop. Here is the command to run the Tunnel:
 
 ```shell
@@ -269,6 +278,7 @@ Then, I visit my domain/hostname, for example `https://example-app.com` walla in
 Finally, my Laravel application is running from my local Laptop machine!
 
 **8. Run tunnel as a service**
+
 There is one small issue, when I run the previous command to run the tunnel, it doesn't run as demon(in the background). As a result once I close
 the terminal or close the execution using **Ctrl+C**, my application goes down! So, either we need to keep this terminal always open and running, 
 or we can run the tunnel as a service in the background. To run the tunnel in the background, I installed Cloudflared service and started is using
