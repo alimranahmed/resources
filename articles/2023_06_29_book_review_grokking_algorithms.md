@@ -1,0 +1,27 @@
+![Cover of Grokking Algorithms](https://raw.githubusercontent.com/alimranahmed/resources/master/files/review_on_grokking_algorithms/grokking_algorithms_cover.png)
+
+After completing my university degree, I haven't been an avid reader of algorithm books. Instead, I have been actively working as a professional web developer, gaining practical experience across various products and companies. Although I haven't personally implemented algorithms directly, my understanding of their underlying complexities and performance has proven invaluable. Recently, I stumbled upon an article recommending the book [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms), which not only explains common algorithms but also provides practical use cases. Intrigued by the prospect of discovering the more enjoyable aspects of algorithms, I decided to give this book a chance. Unlike most algorithm books I have encountered, which tend to be monotonous, I am optimistic that "Grokking Algorithms" will offer a refreshing and engaging perspective.
+
+Yes I finished this book, and let me share what I liked and what could be better.
+
+## What so Great About This Book?
+#### 1. Problem at first and then solution
+The author takes an interesting approach in "Grokking Algorithms" by first illustrating the problem that each algorithm solves using practical examples. Instead of relying on pseudocode, the book presents the algorithms with real code, which I find to be a refreshing approach. By understanding the problem before delving into the solution, it becomes more natural to grasp the concept of algorithms as solutions to various problems. I have adopted a similar approach in my own [Youtube channel: Imranic Show](https://www.youtube.com/@ImranicShow), where I prioritize discussing the problem before diving into the solution. While I understand that some textbooks may not follow this approach and simply present solutions as documentation, I believe it would be beneficial if more books on algorithms followed the pattern of discussing problems first and then explaining the corresponding solutions. In this aspect, "Grokking Algorithms" receives high praise.
+
+#### 2. Illustration with easily understandable picture
+When it comes to comprehending complex concepts such as algorithms, visualization or a step-by-step walkthrough is crucial. This book serves as an excellent demonstration of how intricate subjects can be explained with ease through effective visual presentations.
+
+#### 3. Coverage of most common algorithms
+If you primarily rely on existing libraries without actively developing your own, you may find yourself using pre-existing implementations instead of implementing algorithms from scratch. Consequently, you might develop a sense that knowing algorithms is unnecessary for your career. However, this perception is incorrect, as understanding algorithms is fundamental to comprehending their applications. In "Grokking Algorithms," the author astutely selects the most commonly used algorithms that professionals are likely to encounter in their careers. The book avoids overwhelming readers by focusing on the essential algorithms rather than inundating them with an exhaustive list.
+
+#### 4. Complexity analysis
+In my perspective, understanding the rationale behind an algorithm is the most crucial aspect. For instance, being aware of both linear search and binary search is one thing, but knowing when and why to use each of them is another. Can you analyze their complexities? Early in my career, I had the opportunity to work with students, and I noticed that they often felt intimidated by the task of analyzing algorithmic complexities. This apprehension may stem from the fact that complexity analysis is often taught in academic settings using mathematical terminology. However, "Grokking Algorithms" offers a refreshing approach, enabling readers to easily grasp algorithm analysis without delving into complex mathematical concepts.
+
+## What could have been better?
+
+#### 1. Few relevant algorithms missing
+While I acknowledge that it is impractical for a single book to encompass all algorithms, I commend the author of this book for their thoughtful selection. Based on my experience, I can confidently assert that the algorithms covered in this book will suffice for most practical purposes. However, as I progressed through the content, I anticipated the inclusion of a few additional relevant algorithms. For instance, after the detailed illustration of QuickSort and its comparison to MergeSort, I was hopeful to find a similar demonstration of MergeSort within the book. Additionally, I expected a more comprehensive exploration of tree data structures. Nonetheless, the book's current content still provides valuable insights into algorithms and their applications.
+
+
+#### Overall
+Having completed this book, I am now sufficiently confident in my ability to independently implement common algorithms. I must acknowledge that every second spent reading this book was well worth it. I wholeheartedly recommend it, especially to individuals starting their careers or those seeking to refresh their knowledge of algorithms. Without hesitation, I can confidently state that this is one of the finest books I have come across on the subject of algorithms.
